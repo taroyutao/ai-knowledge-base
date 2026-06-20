@@ -1,0 +1,20 @@
+{
+  "id": "gh-20260615-008",
+  "title": "Panniantong/Agent-Reach",
+  "source": "github_trending",
+  "source_url": "https://github.com/Panniantong/Agent-Reach",
+  "author": "Panniantong",
+  "published_at": null,
+  "fetched_at": "2026-06-15T12:00:00Z",
+  "language": "zh",
+  "summary": "为 AI Agent 提供全网视野的能力层，通过单一 CLI 支持搜索和读取 Twitter、Reddit、YouTube、GitHub、B站、小红书等平台，零 API 费用。采用多后端路由架构（首选+备选），某条接入路径失效时自动切换，agent-reach doctor 诊断命令实时报告各渠道连通状态。",
+  "tags": ["agent", "internet-access", "multi-platform", "infrastructure", "cli"],
+  "category": "agent_framework",
+  "difficulty": "intermediate",
+  "relevance_score": 0.8,
+  "status": "published",
+  "distributions": {
+    "telegram": "pending",
+    "feishu": "pending"
+  }
+}

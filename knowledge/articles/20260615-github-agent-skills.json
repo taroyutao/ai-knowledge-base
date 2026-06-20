@@ -1,0 +1,20 @@
+{
+  "id": "gh-20260615-003",
+  "title": "addyosmani/agent-skills",
+  "source": "github_trending",
+  "source_url": "https://github.com/addyosmani/agent-skills",
+  "author": "addyosmani",
+  "published_at": null,
+  "fetched_at": "2026-06-15T12:00:00Z",
+  "language": "zh",
+  "summary": "面向 AI 编程 Agent 的生产级工程技能集合，由 Google Chrome 工程总监 Addy Osmani 维护。包含 24 个技能覆盖从需求定义到上线的全生命周期，7 条斜杠命令串联工作流。每个技能内置防绕过程序表（anti-rationalization），强制 Agent 遵循工程规范而非走捷径。",
+  "tags": ["agent", "skill", "engineering", "best-practices", "workflow"],
+  "category": "agent_framework",
+  "difficulty": "intermediate",
+  "relevance_score": 0.7,
+  "status": "published",
+  "distributions": {
+    "telegram": "pending",
+    "feishu": "pending"
+  }
+}

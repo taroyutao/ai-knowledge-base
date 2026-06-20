@@ -1,0 +1,109 @@
+# RSS data sources for the AI Knowledge Base pipeline.
+#
+# Each source requires:
+#   name     — human-readable display name
+#   url      — RSS/Atom feed URL
+#   category — one of: tech_news, ai_research, company_blog, cn_community
+#   enabled  — true to collect, false to skip
+#
+# Fields are validated at pipeline startup; invalid entries are skipped
+# with a warning.
+
+sources:
+  # =========================================================================
+  # 综合技术新闻
+  # =========================================================================
+
+  - name: "Hacker News — AI / LLM / Agent"
+    url: "https://hnrss.org/frontpage?q=ai+OR+llm+OR+agent"
+    category: tech_news
+    enabled: true
+
+  - name: "Hacker News — full frontpage (high volume)"
+    url: "https://hnrss.org/frontpage"
+    category: tech_news
+    enabled: false
+
+  - name: "Simon Willison's Weblog"
+    url: "https://simonwillison.net/atom/everything/"
+    category: tech_news
+    enabled: true
+
+  # lobste.rs is unreachable from some regions; keep for reference
+  - name: "Lobsters — AI / ML tag (may be geo-blocked)"
+    url: "https://lobste.rs/t/ai.rss"
+    category: tech_news
+    enabled: false
+
+  # =========================================================================
+  # AI 研究
+  # =========================================================================
+
+  - name: "arXiv — cs.AI (Artificial Intelligence)"
+    url: "https://export.arxiv.org/rss/cs.AI"
+    category: ai_research
+    enabled: true
+
+  - name: "arXiv — cs.CL (Computation & Language)"
+    url: "https://export.arxiv.org/rss/cs.CL"
+    category: ai_research
+    enabled: true
+
+  - name: "arXiv — cs.LG (Machine Learning, high volume)"
+    url: "https://export.arxiv.org/rss/cs.LG"
+    category: ai_research
+    enabled: false
+
+  # =========================================================================
+  # 公司 / 实验室博客
+  # =========================================================================
+
+  - name: "OpenAI Blog"
+    url: "https://openai.com/blog/rss.xml"
+    category: company_blog
+    enabled: true
+
+  - name: "Hugging Face Blog"
+    url: "https://huggingface.co/blog/feed.xml"
+    category: company_blog
+    enabled: true
+
+  - name: "Google DeepMind Blog"
+    url: "https://deepmind.google/blog/rss.xml"
+    category: company_blog
+    enabled: true
+
+  # Anthropic does not provide an RSS feed; use hn/arxiv as alternative
+  - name: "Anthropic Research (no RSS — use web scrape)"
+    url: "https://www.anthropic.com/research"
+    category: company_blog
+    enabled: false
+
+  - name: "Meta AI Blog"
+    url: "https://ai.meta.com/blog/feed/"
+    category: company_blog
+    enabled: false
+
+  - name: "Mistral AI Blog (no RSS — use web scrape)"
+    url: "https://mistral.ai/news/"
+    category: company_blog
+    enabled: false
+
+  # =========================================================================
+  # 中文社区（默认关闭，需确认 RSS 可用性）
+  # =========================================================================
+
+  - name: "机器之心"
+    url: "https://www.jiqizhixin.com/rss"
+    category: cn_community
+    enabled: false
+
+  - name: "量子位"
+    url: "https://www.qbitai.com/feed"
+    category: cn_community
+    enabled: false
+
+  - name: "CSDN — AI 频道"
+    url: "https://blog.csdn.net/nav/ai/rss"
+    category: cn_community
+    enabled: false

@@ -1,0 +1,20 @@
+{
+  "id": "gh-20260615-010",
+  "title": "NVIDIA/SkillSpector",
+  "source": "github_trending",
+  "source_url": "https://github.com/NVIDIA/SkillSpector",
+  "author": "NVIDIA",
+  "published_at": null,
+  "fetched_at": "2026-06-15T12:00:00Z",
+  "language": "zh",
+  "summary": "NVIDIA 推出的 AI Agent 技能安全扫描器，检测 64 种漏洞模式覆盖 16 个类别，包括提示注入、数据外泄、权限提升、供应链风险、MCP 工具投毒等。采用两阶段检测（快速静态分析 + 可选 LLM 语义评估），基于对 42,447 个技能的研究（26.1% 存在漏洞，5.2% 显示恶意意图）。",
+  "tags": ["agent", "security", "vulnerability", "skill", "scanning"],
+  "category": "tool_library",
+  "difficulty": "intermediate",
+  "relevance_score": 0.8,
+  "status": "published",
+  "distributions": {
+    "telegram": "pending",
+    "feishu": "pending"
+  }
+}

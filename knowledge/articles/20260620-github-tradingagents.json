@@ -1,0 +1,24 @@
+{
+  "id": "gh-20260620-002",
+  "title": "TradingAgents：多智能体金融交易框架",
+  "source": "github",
+  "source_url": "https://github.com/TauricResearch/TradingAgents",
+  "author": null,
+  "published_at": null,
+  "fetched_at": "2026-06-20T09:38:21Z",
+  "language": "zh",
+  "summary": "TradingAgents 是一个基于多智能体 LLM 的金融交易框架，利用多个大语言模型代理协同工作，模拟交易决策过程。该框架通过分工协作、市场分析和策略优化，实现自动化交易，突出多智能体协作与金融领域的结合。",
+  "tags": [
+    "multi-agent",
+    "financial-trading",
+    "llm-framework"
+  ],
+  "category": "agent_framework",
+  "difficulty": "intermediate",
+  "relevance_score": 0.9,
+  "status": "draft",
+  "distributions": {
+    "telegram": "pending",
+    "feishu": "pending"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "gh-20260615-005",
+  "title": "harry0703/MoneyPrinterTurbo",
+  "source": "github_trending",
+  "source_url": "https://github.com/harry0703/MoneyPrinterTurbo",
+  "author": "harry0703",
+  "published_at": null,
+  "fetched_at": "2026-06-15T12:00:00Z",
+  "language": "zh",
+  "summary": "利用 AI 大模型一键生成高清短视频的自动化工具。提供完整 MVC 架构，支持主题→文案→素材→字幕→背景音乐全流程自动合成。接入 OpenAI、DeepSeek、Gemini 等多种 LLM，支持 Edge TTS 和 Azure TTS V2 语音合成，内置 whisper 字幕对齐和多种视频素材源。",
+  "tags": ["ai-application", "video-generation", "llm", "automation", "content-creation"],
+  "category": "other",
+  "difficulty": "beginner",
+  "relevance_score": 0.5,
+  "status": "rejected",
+  "distributions": {
+    "telegram": "pending",
+    "feishu": "pending"
+  }
+}

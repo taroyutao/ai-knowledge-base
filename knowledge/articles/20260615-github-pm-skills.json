@@ -1,0 +1,20 @@
+{
+  "id": "gh-20260615-006",
+  "title": "phuryn/pm-skills",
+  "source": "github_trending",
+  "source_url": "https://github.com/phuryn/pm-skills",
+  "author": "phuryn",
+  "published_at": null,
+  "fetched_at": "2026-06-15T12:00:00Z",
+  "language": "zh",
+  "summary": "产品经理 AI 技能市场，提供 100+ Agent 技能和 42 条链接工作流，覆盖产品发现、战略、执行、市场研究、数据分析、GTM 等 9 大领域。每个技能编码了 Teresa Torres、Marty Cagan 等 PM 大师的框架方法论，支持 Claude Code、Codex、Cursor、Gemini CLI 等主流 Agent 平台。",
+  "tags": ["agent", "product-management", "skill", "workflow", "framework"],
+  "category": "other",
+  "difficulty": "intermediate",
+  "relevance_score": 0.5,
+  "status": "rejected",
+  "distributions": {
+    "telegram": "pending",
+    "feishu": "pending"
+  }
+}

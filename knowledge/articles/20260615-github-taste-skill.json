@@ -1,0 +1,20 @@
+{
+  "id": "gh-20260615-004",
+  "title": "Leonxlnx/taste-skill",
+  "source": "github_trending",
+  "source_url": "https://github.com/Leonxlnx/taste-skill",
+  "author": "Leonxlnx",
+  "published_at": null,
+  "fetched_at": "2026-06-15T12:00:00Z",
+  "language": "zh",
+  "summary": "赋予 AI Agent「良好品味」的前端设计技能框架，防止生成千篇一律的低质量 UI。v2 实验版通过三个可调旋钮（布局变化度/动画强度/视觉密度）控制设计风格，提供 10 种技能变体（极简、粗野主义、高端视觉等），同时支持图像生成参考板模式。框架无关，适配 React/Vue/Svelte。",
+  "tags": ["agent", "frontend", "design", "skill", "ui"],
+  "category": "tool_library",
+  "difficulty": "intermediate",
+  "relevance_score": 0.6,
+  "status": "published",
+  "distributions": {
+    "telegram": "pending",
+    "feishu": "pending"
+  }
+}

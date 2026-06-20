@@ -1,0 +1,20 @@
+{
+  "id": "gh-20260615-007",
+  "title": "safishamsi/graphify",
+  "source": "github_trending",
+  "source_url": "https://github.com/safishamsi/graphify",
+  "author": "safishamsi",
+  "published_at": null,
+  "fetched_at": "2026-06-15T12:00:00Z",
+  "language": "zh",
+  "summary": "AI 编码助手技能，将任意代码库、文档、PDF、图片、视频转化为可查询的知识图谱。支持 36 种 tree-sitter 语法、20+ 平台。提供 HTML 可视化、MCP 服务、Neo4j 推送、Obsidian 导出等功能。v8 引入社区检测、Git 钩子自动重建、PR 影响分析等高级特性。",
+  "tags": ["knowledge-graph", "agent", "code-analysis", "skill", "mcp"],
+  "category": "tool_library",
+  "difficulty": "intermediate",
+  "relevance_score": 0.7,
+  "status": "published",
+  "distributions": {
+    "telegram": "pending",
+    "feishu": "pending"
+  }
+}

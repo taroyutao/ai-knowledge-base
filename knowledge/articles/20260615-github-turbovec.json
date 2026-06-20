@@ -1,0 +1,20 @@
+{
+  "id": "gh-20260615-009",
+  "title": "RyanCodrai/turbovec",
+  "source": "github_trending",
+  "source_url": "https://github.com/RyanCodrai/turbovec",
+  "author": "RyanCodrai",
+  "published_at": null,
+  "fetched_at": "2026-06-15T12:00:00Z",
+  "language": "zh",
+  "summary": "基于 Google Research TurboQuant 算法（ICLR 2026）的高性能向量索引库，Rust 编写并提供 Python 绑定。实现 16 倍压缩（1 千万文档仅需 4GB 内存 vs FP32 的 31GB），搜索速度在 ARM 上比 FAISS 快 10-19%。支持在线增量写入、搜索时过滤、LangChain/LlamaIndex/Haystack/Agno 集成。",
+  "tags": ["vector-search", "rag", "quantization", "rust", "embedding"],
+  "category": "tool_library",
+  "difficulty": "advanced",
+  "relevance_score": 0.8,
+  "status": "published",
+  "distributions": {
+    "telegram": "pending",
+    "feishu": "pending"
+  }
+}

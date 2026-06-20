@@ -1,0 +1,20 @@
+{
+  "id": "gh-20260620-002",
+  "title": "Harness: AI 驱动的软件交付平台",
+  "source": "github_trending",
+  "source_url": "https://github.com/harness/harness",
+  "author": "harness",
+  "published_at": null,
+  "fetched_at": "2026-06-20T12:00:00Z",
+  "language": "zh",
+  "summary": "Harness 是 AI 原生的持续交付平台，通过智能流水线实现代码验证、构建、部署的全流程自动化。",
+  "tags": ["devops", "ci-cd", "automation"],
+  "category": "tool_library",
+  "difficulty": "intermediate",
+  "relevance_score": 0.65,
+  "status": "draft",
+  "distributions": {
+    "telegram": "pending",
+    "feishu": "pending"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rs-20260620-004",
+  "title": "扩散语言模型实验分析",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2606.19475",
+  "author": null,
+  "published_at": null,
+  "fetched_at": "2026-06-20T09:38:21Z",
+  "language": "zh",
+  "summary": "本文对扩散语言模型（DLMs）进行了实验分析，探讨其作为自回归生成替代范式的潜力。研究比较了DLMs与大型语言模型（LLMs）在多种任务上的性能，分析了扩散过程在语言建模中的优势与挑战，为未来研究提供了实证基础。",
+  "tags": [
+    "diffusion-language-models",
+    "language-modeling",
+    "experimental-analysis",
+    "llm"
+  ],
+  "category": "research_paper",
+  "difficulty": "advanced",
+  "relevance_score": 0.9,
+  "status": "draft",
+  "distributions": {
+    "telegram": "pending",
+    "feishu": "pending"
+  }
+}

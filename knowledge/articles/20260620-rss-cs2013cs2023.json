@@ -1,0 +1,26 @@
+{
+  "id": "rs-20260620-002",
+  "title": "课程对齐度测量：CS2013与CS2023纵向框架",
+  "source": "rss",
+  "source_url": "https://arxiv.org/abs/2606.19469",
+  "author": null,
+  "published_at": null,
+  "fetched_at": "2026-06-20T09:38:21Z",
+  "language": "zh",
+  "summary": "提出一种可复现的框架，用于衡量本科计算机科学课程与CS2013和CS2023国际指南在主题覆盖、能力与认知深度上的对齐度，支持纵向分析指南更新带来的覆盖变化。",
+  "tags": [
+    "curriculum-alignment",
+    "computer-science-education",
+    "longitudinal-framework",
+    "cs2013",
+    "cs2023"
+  ],
+  "category": "research_paper",
+  "difficulty": "advanced",
+  "relevance_score": 0.3,
+  "status": "rejected",
+  "distributions": {
+    "telegram": "pending",
+    "feishu": "pending"
+  }
+}

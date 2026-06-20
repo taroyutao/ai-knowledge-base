@@ -1,0 +1,20 @@
+{
+  "id": "gh-20260620-001",
+  "title": "LangGraph: 构建有状态多智能体工作流",
+  "source": "github_trending",
+  "source_url": "https://github.com/langchain-ai/langgraph",
+  "author": "langchain-ai",
+  "published_at": null,
+  "fetched_at": "2026-06-20T12:00:00Z",
+  "language": "zh",
+  "summary": "LangGraph 是用于构建有状态多角色 AI 应用的框架，支持循环图与分支决策。",
+  "tags": ["agent", "workflow", "orchestration"],
+  "category": "agent_framework",
+  "difficulty": "advanced",
+  "relevance_score": 0.95,
+  "status": "draft",
+  "distributions": {
+    "telegram": "pending",
+    "feishu": "pending"
+  }
+}

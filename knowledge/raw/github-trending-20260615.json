@@ -1,0 +1,107 @@
+[
+  {
+    "title": "mvanhorn/last30days-skill",
+    "url": "https://github.com/mvanhorn/last30days-skill",
+    "source": "github_trending",
+    "popularity": 42410,
+    "summary": "一个AI智能体技能，可跨Reddit、X、YouTube、HN、Polymarket及网页研究任意话题，并生成综合摘要。"
+  },
+  {
+    "title": "chopratejas/headroom",
+    "url": "https://github.com/chopratejas/headroom",
+    "source": "github_trending",
+    "popularity": 28032,
+    "summary": "在发送至LLM前压缩工具输出、日志、文件和RAG块，减少60-95%的token消耗，支持库、代理和MCP服务器模式。"
+  },
+  {
+    "title": "addyosmani/agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "source": "github_trending",
+    "popularity": 59862,
+    "summary": "面向AI编码智能体的生产级工程技能集合，帮助AI编程助手更好地理解项目上下文。"
+  },
+  {
+    "title": "Leonxlnx/taste-skill",
+    "url": "https://github.com/Leonxlnx/taste-skill",
+    "source": "github_trending",
+    "popularity": 44074,
+    "summary": "为AI赋予良好品味，阻止AI生成无聊、通用的低质量内容，让输出更具风格。"
+  },
+  {
+    "title": "harry0703/MoneyPrinterTurbo",
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "source": "github_trending",
+    "popularity": 88013,
+    "summary": "利用AI大模型一键生成高清短视频，自动化视频内容创作流水线。"
+  },
+  {
+    "title": "phuryn/pm-skills",
+    "url": "https://github.com/phuryn/pm-skills",
+    "source": "github_trending",
+    "popularity": 5713,
+    "summary": "产品经理技能市场，提供100多种智能体技能、命令和插件，覆盖从发现到策略、执行、发布和增长全流程。"
+  },
+  {
+    "title": "safishamsi/graphify",
+    "url": "https://github.com/safishamsi/graphify",
+    "source": "github_trending",
+    "popularity": 67384,
+    "summary": "AI编码助手技能，将任意代码文件夹和SQL模式转为知识图谱，支持Claude Code、OpenCode等多种工具。"
+  },
+  {
+    "title": "Panniantong/Agent-Reach",
+    "url": "https://github.com/Panniantong/Agent-Reach",
+    "source": "github_trending",
+    "popularity": 29173,
+    "summary": "为AI智能体提供浏览整个互联网的能力，支持搜索Twitter、Reddit、YouTube、GitHub等平台，零API费用。"
+  },
+  {
+    "title": "RyanCodrai/turbovec",
+    "url": "https://github.com/RyanCodrai/turbovec",
+    "source": "github_trending",
+    "popularity": 11555,
+    "summary": "基于TurboQuant的向量索引库，使用Rust编写并提供Python绑定，用于高效向量检索。"
+  },
+  {
+    "title": "NVIDIA/SkillSpector",
+    "url": "https://github.com/NVIDIA/SkillSpector",
+    "source": "github_trending",
+    "popularity": 5759,
+    "summary": "面向AI智能体技能的安全扫描器，可检测漏洞、恶意模式和安全风险，由NVIDIA开发。"
+  },
+  {
+    "title": "aaif-goose/goose",
+    "url": "https://github.com/aaif-goose/goose",
+    "source": "github_trending",
+    "popularity": 49435,
+    "summary": "开源可扩展的AI智能体，超越代码建议，可安装、执行、编辑和测试任意LLM，支持多种模型。"
+  },
+  {
+    "title": "maziyarpanahi/openmed",
+    "url": "https://github.com/maziyarpanahi/openmed",
+    "source": "github_trending",
+    "popularity": 3505,
+    "summary": "开源医疗健康AI项目，将人工智能技术应用于医疗领域。"
+  },
+  {
+    "title": "Andyyyy64/whichllm",
+    "url": "https://github.com/Andyyyy64/whichllm",
+    "source": "github_trending",
+    "popularity": 4782,
+    "summary": "根据实际硬件寻找最适合运行的本地LLM，基于时效性基准测试而非模型发布时间排名，帮助选择最优模型。"
+  },
+  {
+    "title": "openai/plugins",
+    "url": "https://github.com/openai/plugins",
+    "source": "github_trending",
+    "popularity": 3060,
+    "summary": "OpenAI官方插件集合，扩展和增强OpenAI平台的功能和集成能力。"
+  },
+  {
+    "title": "Open-LLM-VTuber/Open-LLM-VTuber",
+    "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+    "source": "github_trending",
+    "popularity": 11357,
+    "summary": "与任意LLM进行免提语音交互，支持语音打断和Live2D虚拟形象，可跨平台本地运行。"
+  }
+]

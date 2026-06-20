@@ -1,0 +1,20 @@
+{
+  "id": "gh-20260615-001",
+  "title": "mvanhorn/last30days-skill",
+  "source": "github_trending",
+  "source_url": "https://github.com/mvanhorn/last30days-skill",
+  "author": "mvanhorn",
+  "published_at": null,
+  "fetched_at": "2026-06-15T12:00:00Z",
+  "language": "zh",
+  "summary": "AI Agent 技能，可跨 Reddit、X、YouTube、HN、Polymarket 等十余个平台研究任意话题，综合生成有据可查的摘要报告。v3 新增智能预研（自动解析话题关联的人物/社区/渠道）、跨源聚簇合并、HTML 简报导出和 ELI5 模式，1,012 个测试通过。",
+  "tags": ["agent", "research", "multi-source", "skill", "search"],
+  "category": "agent_framework",
+  "difficulty": "intermediate",
+  "relevance_score": 0.8,
+  "status": "published",
+  "distributions": {
+    "telegram": "pending",
+    "feishu": "pending"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "ai-knowledge-base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taroyutao/ai-knowledge-base.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taroyutao/ai-knowledge-base/issues"
+  },
+  "homepage": "https://github.com/taroyutao/ai-knowledge-base#readme",
+  "dependencies": {
+    "@opencode-ai/plugin": "^1.17.8"
+  }
+}

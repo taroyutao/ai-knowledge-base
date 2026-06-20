@@ -1,0 +1,20 @@
+{
+  "id": "gh-20260615-002",
+  "title": "chopratejas/headroom",
+  "source": "github_trending",
+  "source_url": "https://github.com/chopratejas/headroom",
+  "author": "chopratejas",
+  "published_at": null,
+  "fetched_at": "2026-06-15T12:00:00Z",
+  "language": "zh",
+  "summary": "LLM 上下文压缩层，在内容进入 LLM 前压缩工具输出、日志、RAG 块和对话历史，减少 60-95% token 消耗同时保持答案质量。支持库/代理/MCP 三种模式，内置 6 种压缩算法（SmartCrusher JSON、CodeCompressor AST、Kompress-base 文本等），Rust 核心 + Python/TS 绑定。",
+  "tags": ["llm", "compression", "token-optimization", "context-engineering", "mcp"],
+  "category": "tool_library",
+  "difficulty": "advanced",
+  "relevance_score": 0.9,
+  "status": "published",
+  "distributions": {
+    "telegram": "pending",
+    "feishu": "pending"
+  }
+}
